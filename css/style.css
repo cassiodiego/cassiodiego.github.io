@@ -59,14 +59,14 @@ p {
 }
 
 a, a:visited {
-	color: #2196F3;
+	color: #072442;
 	text-decoration: none;
 	transition: 200ms ease-in-out;
 	-webkit-transition: 200ms ease-in-out;
 	}
 
 a:hover, a:active {
-	color: #1976D2;
+	color: #09335e;
 	text-decoration: none;
 	}
 
