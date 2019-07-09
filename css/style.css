@@ -72,7 +72,7 @@ a:hover, a:active {
 
 .link:hover, .link:active {
 	border-bottom: 4px solid #0d4b88;
-	}
+}
 
 .container {
   margin: auto;
@@ -83,21 +83,4 @@ a:hover, a:active {
 
 .title {
   font-size: 3rem;
-}
-
-@media screen and (max-width: 414px) {
-	
-	body {
-		margin-top: 80px;
-	}
-
-}
-
-@media screen and (max-width: 320px) {
-
-	h1 {
-		font-size: 56px;
-		line-height: 80px;
-		}
-
 }
