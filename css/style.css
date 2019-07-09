@@ -87,3 +87,33 @@ a:hover, a:active {
 .title {
   font-size: 3rem;
 }
+
+@media screen and (max-width: 414px) {
+	
+	body {
+		margin-top: 80px;
+		}
+
+	.header, .social, .summary, .posts {
+		max-width: calc(100% - 48px);
+		width: calc(100% - 48px);
+		}
+
+	.social {
+		margin: 24px 0 40px;
+		}
+
+	.summary, .posts {
+		margin: 0 0 32px;
+		}
+
+}
+
+@media screen and (max-width: 320px) {
+
+	h1 {
+		font-size: 56px;
+		line-height: 64px;
+		}
+
+}
