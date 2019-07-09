@@ -76,7 +76,7 @@ a:hover, a:active {
 	}
 
 .link:hover, .link:active {
-	border-bottom: 4px solid #1976D2;
+	border-bottom: 4px solid #09335e;
 	}
 
 .container {
@@ -92,20 +92,7 @@ a:hover, a:active {
 	
 	body {
 		margin-top: 80px;
-		}
-
-	.header, .social, .summary, .posts {
-		max-width: calc(100% - 48px);
-		width: calc(100% - 48px);
-		}
-
-	.social {
-		margin: 24px 0 40px;
-		}
-
-	.summary, .posts {
-		margin: 0 0 32px;
-		}
+	}
 
 }
 
@@ -113,7 +100,7 @@ a:hover, a:active {
 
 	h1 {
 		font-size: 56px;
-		line-height: 64px;
+		line-height: 60px;
 		}
 
 }
