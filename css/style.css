@@ -59,24 +59,19 @@ p {
 }
 
 a, a:visited {
-	color: #062646;
+	color: #0d4b88;
 	text-decoration: none;
 	transition: 200ms ease-in-out;
 	-webkit-transition: 200ms ease-in-out;
 	}
 
 a:hover, a:active {
-	color: #09335e;
+	color: #0d4b88;
 	text-decoration: none;
 	}
 
-.link, .link:visited {
-	border-bottom: 0px solid #FFF;
-	padding: 0 0 4px;
-	}
-
 .link:hover, .link:active {
-	border-bottom: 4px solid #09335e;
+	border-bottom: 4px solid #0d4b88;
 	}
 
 .container {
