@@ -80,8 +80,11 @@ a:hover, a:active {
 	}
 
 .container {
-  margin: auto;
+  /* margin: auto; */
   text-align: center;
+  margin: 0 0 80px;
+	max-width: 560px;
+	width: 100%;
 }
 
 .title {
