@@ -59,6 +59,28 @@ p {
 	font-weight: 400;
 	line-height: 28px;
 	margin-bottom: 16px;
+}
+
+a, a:visited {
+	color: #2196F3;
+	text-decoration: none;
+	transition: 200ms ease-in-out;
+	-webkit-transition: 200ms ease-in-out;
+	}
+
+a:hover, a:active {
+	color: #1976D2;
+	text-decoration: none;
+	}
+
+.link, .link:visited {
+	border-bottom: 0px solid #FFF;
+	padding: 0 0 4px;
+	}
+
+.link:hover, .link:active {
+	border-bottom: 4px solid #1976D2;
+	}
 
 .container {
   margin: auto;
