@@ -1,2 +1,2 @@
 # Cassio Diego
-The first version of this site was created in 2005.
+Just a personal website. The first version of this site was released in 2005.
