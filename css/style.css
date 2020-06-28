@@ -40,19 +40,19 @@ p {
 }
 
 a, a:visited {
-	color: #f5f5dc;
+	color: #c0c0c0;
 	text-decoration: none;
 	transition: 200ms ease-in-out;
 	-webkit-transition: 200ms ease-in-out;
 }
 
 a:hover, a:active {
-	color: #fffaf0;
+	color: #d4d3d3;
 	text-decoration: none;
 }
 
 .link:hover, .link:active {
-	border-bottom: 4px solid #fffaf0;
+	border-bottom: 4px solid #c0c0c0;
 }
 
 .container {
