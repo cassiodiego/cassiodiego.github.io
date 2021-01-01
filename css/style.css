@@ -15,6 +15,7 @@ html,
 }
 
 body {
+	border-top: 1px goldenrod solid;	
 	background-color: #000000;
 	color: #ffffff;
 	font-family: 'Lato', 'Helvetica', sans-serif;
@@ -26,10 +27,11 @@ body {
 
 h1 {
 	color: #ffffff;
-	font-size: 80px;
-	font-weight: 900;
+	font-size: 60px;
+	font-weight: 800;
 	line-height: 60px;
-	margin-bottom: 24px;
+	margin-bottom: 12px;
+	text-shadow: 2px 2px gray;
 }
 
 p {
@@ -63,6 +65,36 @@ a:hover, a:active {
 	width: 100%;
 }
 
+.logo {
+	background-image: url("../images/cassiodiego-logo-2021.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}
+
 .title {
 	font-size: 3rem;
+}
+
+.menu {
+	margin-top: 1px;
+	margin-bottom: 15px; 
+	text-transform: uppercase;
+	font-size: x-small;
+}
+
+.menu a {
+	color: goldenrod;
+}
+
+.menu a:hover {
+	color: gold;
+}
+
+.footer {
+	text-transform: uppercase;
+	font-size: xx-small;
+	color: gray;
 }
